@@ -6,4 +6,4 @@
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------|
 |[Taehyeong Kim](https://github.com/GNOEYHEAT)                               |[Hyeon-kki Jeong](https://github.com/Hyeon-kki)                              |[Jiyul Ham](https://github.com/YUL-git)                              |  
 
-![Project Intro]()
+![Project Intro](https://github.com/TeletoVision/.github/blob/main/asserts/Project_Intro.JPG)
